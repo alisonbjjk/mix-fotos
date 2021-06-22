@@ -1,6 +1,7 @@
 
 Criação de um copia do arquivo .env.example para .env.
-criação de uma base de dados local 
+
+Criação de uma base de dados local 
 
 
 composer install
